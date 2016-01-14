@@ -1,5 +1,5 @@
 # jrake
-**jrake** is Rake wrapped in a JRuby jar. Run your custom rake tasks in a Java runtime environment where Ruby isn't available.
+**jrake** is [Rake](https://github.com/ruby/rake) wrapped in a [JRuby](https://github.com/jruby/jruby) jar. Run your custom rake tasks in a Java runtime environment where Ruby isn't available.
 
 # Build jrake.jar
 Configure your RVM with a `jruby-1.7.19@jrake` gemset, or something equivalent.
